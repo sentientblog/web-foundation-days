@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a97a4f16-776d-4f6c-bc6c-9855bea2f17e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/day 4/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day 4/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day 4/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day 5/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day 5/library-api.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day 5/users.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day 6/school-design.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day 6/school.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day1/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/day1/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/day1/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3K3aPeTUM3eS49hHwl0CLKdQ78r" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/JT/quicknotes-app/README.md",
+    "onboarding.tips.debug.path": "/home/JT/IdeaProjects/web-development/src/Main.java"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/day2" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/day 1" />
+      <recent name="$PROJECT_DIR$/.idea/day 1" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="web-development-days" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="web-development-days" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a97a4f16-776d-4f6c-bc6c-9855bea2f17e" name="Changes" comment="" />
+      <created>1790788688418</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1790788688418</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
