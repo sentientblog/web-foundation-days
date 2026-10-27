@@ -1,0 +1,7 @@
+# Course Reflection
+
+The most difficult concept in this course was understanding how to design a system that remains correct when many users make requests at the same time. It is relatively easy to design an API that checks whether a seat is available, but that check alone is not enough. Two requests could check the same seat before either request updates it, resulting in double-booking. I overcame this by learning about database transactions, row-level locking, conditional updates, and unique constraints. These concepts helped me understand why correctness must be enforced by the database rather than relying only on the application interface.
+
+For my capstone, I would improve the architecture and explain its decisions more clearly. In particular, I would make the system's failure scenarios, security considerations, and scalability limits more explicit. I would also test the main workflows more thoroughly and make sure the documentation explains not only what each component does, but why it is necessary. I would use the feedback received on my capstone to prioritize the areas that were least clear or least complete.
+
+Next, I want to learn more about backend development and databases by building a working application with a real API, persistent storage, authentication, and automated tests. I also want to practice deploying applications and monitoring their performance. This would help me connect the system-design concepts from the course to the practical challenges of implementing and maintaining software.
